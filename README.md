@@ -1,7 +1,10 @@
 <h1 align="center"> Hi, I'm Daniel! :v: </h1>
-  <h3> About me </h3>
+<p align="center">My name is Daniel Filho, I'm a student of Computer Sciense and Front-end Developer at Index Digital.</p>
 
-> My name is Daniel, I'm a student of Computer Science and <<i>Front-end Developer</i>> in the free time.
-
-- [Website Portfolio](https://www.danielfilho.dev.br)
-- [Linkedin](https://www.linkedin.com/in/daniel-filho-70ab55138/)
+<div style="display: inline_block" align="center"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
