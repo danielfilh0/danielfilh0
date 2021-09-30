@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Daniel! :v: </h1>
-<p align="center">My name is Daniel Filho, I'm a student of Computer Science and Front-end Developer at Index Digital.</p>
+<p align="center">My name is Daniel Filho, I'm a student of Computer Science and Front-end Developer.</p>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
