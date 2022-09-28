@@ -2,8 +2,6 @@
 
 <p>I'm developer front-end, focused on Vue.js and its ecosystem.</p>
 
-<br>
-
 <p><b>Contact</b></p>
 
 <a href = "mailto:contato@danbsilva98@gmail.com"><img width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
