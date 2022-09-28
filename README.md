@@ -1,17 +1,6 @@
 <p>Hi there 👋 My name is <b>Daniel</b>.</p>
 
-<p>I'm developer front-end, focused on React.js and its ecosystem.</p>
-
-<p><b>Stacks</b></p>
-
-<div display="flex">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
+<p>I'm developer front-end, focused on Vue.js and its ecosystem.</p>
 
 <br>
 
